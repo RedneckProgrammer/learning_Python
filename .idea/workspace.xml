@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87987c19-bf31-40c9-a6c5-1c5e8d04cf84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tictactoegame.py" afterDir="false" />
-    </list>
+    <list default="true" id="87987c19-bf31-40c9-a6c5-1c5e8d04cf84" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tictactoegame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-483">
+            <state relative-caret-position="-179">
               <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
             </state>
           </provider>
@@ -183,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556737526012</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tic Tac Toe game completed">
+      <created>1556743818665</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556743818665</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -198,7 +203,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -211,7 +216,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Lesson" />
     <MESSAGE value="Second Lesson For loop used on tuple" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Lesson For loop used on tuple" />
+    <MESSAGE value="Tic Tac Toe game completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tic Tac Toe game completed" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Hello World.py">
@@ -230,7 +236,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tictactoegame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-483">
+        <state relative-caret-position="-179">
           <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
         </state>
       </provider>
